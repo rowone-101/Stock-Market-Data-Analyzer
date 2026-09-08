@@ -5,7 +5,7 @@ A command-line Python tool that downloads historical stock price data,
 computes key statistics (highest/lowest price, moving averages, daily
 returns), and visualizes the trend with Matplotlib.
 
-Author : (your name here)
+Author : Ruhan Paul
 Tools  : Python, Pandas, yfinance, Matplotlib
 
 USAGE
